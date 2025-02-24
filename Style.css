@@ -56,8 +56,8 @@ nav {
   gap: 5px;
   margin-left: 20px;
   position: fixed;
-  bottom: 270px;
-  left: -10px;
+  bottom: 230px;
+  left: 18px;
   display: flex;
   gap: 5px;
   z-index: 1000;
@@ -102,7 +102,7 @@ nav {
 .main-box1a p {
   text-align: justify;
   padding: 5px;
-  font-size: 19px;
+  font-size: 17px;
   font-weight: 500;
   line-height: 30px;
 }
